@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @reddragon7799
 - 👀 I’m interested in heavy metal, history, anime, tabletop and board games
-- 🌱 I’m currently learning how json works
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the law. Also how json works
 - 😄 Pronouns: He/him
 
 <!---
